@@ -17,7 +17,6 @@ Raspberry Pi GPIO (optional for hardware control)
 
 📥 Installation
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/HVAC-AI.git
 cd HVAC-AI
 
 2️⃣ Install Dependencies
