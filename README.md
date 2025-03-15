@@ -1,2 +1,3 @@
-# HVAC-AI
-Attempt to create HVAC AI code with IOT and real time HVAC
+git clone https://github.com/Abhilashgeorge-gb/HVAC-AI.git
+cd HVAC-AI
+
